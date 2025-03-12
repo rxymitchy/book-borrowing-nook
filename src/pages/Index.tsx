@@ -9,7 +9,7 @@ const Index = () => {
   return (
     <Layout>
       {/* Hero Section */}
-      <section className="px-6 pt-16 pb-24 md:pt-32 md:pb-32 bg-gradient-to-b from-white to-gray-50">
+      <section className="px-6 pt-16 pb-24 md:pt-32 md:pb-32 bg-gradient-to-b from-blue-50 to-indigo-50">
         <div className="max-w-6xl mx-auto">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
             <div className="text-center lg:text-left animate-slide-up">
