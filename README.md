@@ -1,4 +1,3 @@
-
 # Book Lending Library Application
 
 A beautifully designed book lending library application that allows users to discover, borrow, and manage books with ease.
@@ -19,7 +18,7 @@ This application is a modern, user-friendly book lending platform built with Rea
 
 ## 🚀 Live Demo
 
-**URL**: https://lovable.dev/projects/49733b47-aab0-4aac-9e9f-302308bd72fe
+**URL**: https://book-borrowing-nook.lovable.app/
 
 ## 🛠️ Technical Stack
 
